@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Responsive 3D Flip Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+The **Responsive 3D Flip Portfolio** is a modern and interactive portfolio designed to showcase projects using a dynamic 3D flip effect. Each project section provides detailed information and direct links to the live application and source code, all within a responsive layout that ensures an optimal viewing experience across devices.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **3D Flip Effect:** Smooth transitions between front and back views for each project.
+- **Responsive Design:** Adapts to various screen sizes, maintaining a polished appearance on all devices.
+- **Detailed Project Information:** Includes title, technologies used, descriptions, and links to the live demo and source code.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React.js** - Building the user interface
+- **CSS3** - Styling, animations, and responsive design
+- **JavaScript** - Handling the 3D flip effect and interactivity
+- **HTML5** - Structuring content
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+- **Node.js**
+- **npm** or **yarn**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+2. Navigate to the project directory:
+    ```bash
+    cd your-repository
+3. Install the dependencies:
+    ```bash
+    npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Running the Project
 
-### `npm run eject`
+1. Start the development server:
+    ```bash 
+    npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Usage
+- Click on a project section to flip the card and reveal more details.
+- Use the provided links to visit the live application or view the source code.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### License
+- This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Contact
+For questions or feedback, contact Thuy at thuytran10040103@gmail.com.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
